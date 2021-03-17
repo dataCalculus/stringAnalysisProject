@@ -13,7 +13,7 @@ class StringMuhendisi():
         yesORno = input("y or n ?")
         if yesORno == "y":
             print("case conversion a karar verdiniz..."\
-                  "lütfen seçim yapınız l or n")
+                  "lütfen seçim yapınız l or u")
             selection = input("")
             self.string = self.caseConversion(self.string,selection)
         else:
