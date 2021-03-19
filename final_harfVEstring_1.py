@@ -3,7 +3,7 @@ from collections import OrderedDict
 from matplotlib import pyplot as plt
 
 #string girişleri hafızalı ve numaralandırıldı ve isteğe bağlı input alınabiliyor.
-#v2 --> girişlerdeki seçime göre işlemlerin ypaılması v2ye ayrıldı.
+#v2 --> girişlerdeki seçime göre işlemlerin yapılması v2ye ayrıldı.
 #debug ve decoration lar harfString programının en son upgradeinde yer alacak
 
 class StringMuhendisi():
